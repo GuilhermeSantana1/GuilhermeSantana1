@@ -14,7 +14,7 @@ Olá! Eu sou Guilherme Santana, um estudante de Segurança da Informação e pro
 ### Tecnologias
 </br>
 
-![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=HTML5&logoColor=FF8C00&labelColor=0D1117) ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117) ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117) ![React](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=react&labelColor=0D1117) 
+![HTML](https://img.shields.io/badge/-HTML-000000?style=for-the-badge&logo=HTML5&logoColor=FF8C00&labelColor=1C1C1C) ![CSS](https://img.shields.io/badge/-CSS-000000?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=1C1C1C) ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript&labelColor=1C1C1C) ![React](https://img.shields.io/badge/-React-000000?style=for-the-badge&logo=react&labelColor=1C1C1C) 
 
 
 #### Contato 
